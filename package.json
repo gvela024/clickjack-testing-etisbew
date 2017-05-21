@@ -1,0 +1,19 @@
+{
+  "name": "clickjack-testing-etisbew",
+  "version": "0.0.0",
+  "description": "Test that `etisbew` cannot be clickjacked",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gvela024/clickjack-testing-etisbew.git"
+  },
+  "author": "Gabriel Velasco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gvela024/clickjack-testing-etisbew/issues"
+  },
+  "homepage": "https://github.com/gvela024/clickjack-testing-etisbew#readme"
+}
